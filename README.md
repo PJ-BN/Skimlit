@@ -10,3 +10,4 @@ Then this model converts the aritcal into categorize the artical and create a ne
 This deep learning model can be visualized as following:
 
 
+![model_5](https://user-images.githubusercontent.com/63279581/214818079-00c4e1ac-3f03-4d8b-90ca-b21da492ea05.png)
