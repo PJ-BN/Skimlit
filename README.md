@@ -5,4 +5,4 @@ This is a deep learning model which makes reading medical reports easier. This m
 - Background
 - Conclusion
 
-Then this model converts the aritcal into categorize the artical and create a new artical mentioning the ** Label and Sentence** format.
+Then this model converts the aritcal into categorize the artical and create a new artical mentioning the *Label and Sentence* format.
