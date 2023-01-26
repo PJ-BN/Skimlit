@@ -6,3 +6,7 @@ This is a deep learning model which makes reading medical reports easier. This m
 - Conclusion
 
 Then this model converts the aritcal into categorize the artical and create a new artical mentioning the *Label and Sentence* format.
+
+This deep learning model can be visualized as following:
+
+
